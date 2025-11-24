@@ -1,6 +1,6 @@
 # groupg-git-assignment
 Git and GitHub practice Assignment
- //wafutu junior
+ // AUTHOR: wafutu junior
 
  printf("this is group g");
 
